@@ -1,2 +1,2 @@
-# Summary of the Project and Instructions on How to View the Presentation
+# Brief Explanation of the Project and Instructions on How to View the Presentation
 This project aims to analyze air pollution in New York City through a visualization dashboard using Tableau. To view the graphs and charts on Tableau, you must connect the air quality data to the source. My partners and I analyzed the different types of air quality indicators paying close attention to their units, while also analyzing and comparing various neighborhoods in NYC and which areas were more vulnerable to exposure levels.
