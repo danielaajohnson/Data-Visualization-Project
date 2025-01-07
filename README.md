@@ -1,2 +1,2 @@
 # Data-Visualization-Project
-This was a collaborative project I did with two of my peers, completed as the final assignment for our class.
+This project aims to analyze air pollution in New York City through a visualization dashboard using Tableau. To view the graphs and charts on Tableau, you must connect the air quality data to the source. My partners and I analyzed the different types of air quality indicators paying close attention to their units, while also analyzing and comparing various neighborhoods in NYC and which areas were more vulnerable to exposure levels.
